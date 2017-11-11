@@ -3,6 +3,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/react-native-gifted-chat.svg)](https://www.npmjs.com/package/react-native-gifted-chat)
 [![npm version](https://img.shields.io/npm/v/react-native-gifted-chat.svg)](https://www.npmjs.com/package/react-native-gifted-chat)
 [![Latest GitHub tag](https://img.shields.io/github/tag/FaridSafi/react-native-gifted-chat.svg)](https://github.com/FaridSafi/react-native-gifted-chat)
+<a href="https://snyk.io/test/github/kevinsmith100/react-native-gifted-chat"><img src="https://snyk.io/test/github/kevinsmith100/react-native-gifted-chat/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/kevinsmith100/react-native-gifted-chat" style="max-width:100%;"></a>
 
 The most complete chat UI for React Native (formerly known as Gifted Messenger).
 
